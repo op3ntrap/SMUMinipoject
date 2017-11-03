@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="miniproject@localhost" uuid="ca1d5f39-a427-41e8-8e45-9b9c266ce3ab">
+      <database-info product="PostgreSQL" version="9.5.9" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>op3ntrap</user-name>
+      <introspection-schemas>miniproject:public</introspection-schemas>
+    </data-source>
+    <data-source name="Django default" uuid="c0397991-f036-45f9-b43a-e77ba4abe703">
+      <database-info product="PostgreSQL" version="9.5.9" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>op3ntrap</user-name>
+      <introspection-schemas>miniproject:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>
